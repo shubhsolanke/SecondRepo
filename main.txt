@@ -1,5 +1,8 @@
 def main():
 print("This is main function")
 
+def m1():
+print("new added line")
+
 if __name__="__main__":
 main()
